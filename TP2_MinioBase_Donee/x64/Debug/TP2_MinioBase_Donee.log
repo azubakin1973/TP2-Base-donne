@@ -1,0 +1,8 @@
+﻿  TP2_MinioBase_Donee.cpp
+C:\Users\2417110\source\repos\TP2_MinioBase_Donee\TP2_MinioBase_Donee\TP2_MinioBase_Donee.cpp(20,2): warning C4091: 'typedef ' : ignoré à gauche de 'T_DATE' quand aucune variable n'est déclarée
+C:\Users\2417110\source\repos\TP2_MinioBase_Donee\TP2_MinioBase_Donee\TP2_MinioBase_Donee.cpp(31,2): warning C4091: 'typedef ' : ignoré à gauche de 'T_CLIENT' quand aucune variable n'est déclarée
+C:\Users\2417110\source\repos\TP2_MinioBase_Donee\TP2_MinioBase_Donee\TP2_MinioBase_Donee.cpp(40,2): warning C4091: 'typedef ' : ignoré à gauche de 'T_PRODUIT' quand aucune variable n'est déclarée
+C:\Users\2417110\source\repos\TP2_MinioBase_Donee\TP2_MinioBase_Donee\TP2_MinioBase_Donee.cpp(56,2): warning C4091: 'typedef ' : ignoré à gauche de 'T_BDD' quand aucune variable n'est déclarée
+C:\Users\2417110\source\repos\TP2_MinioBase_Donee\TP2_MinioBase_Donee\TP2_MinioBase_Donee.cpp(332,32): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\2417110\source\repos\TP2_MinioBase_Donee\TP2_MinioBase_Donee\TP2_MinioBase_Donee.cpp(533,3): warning C4102: 'case18' : étiquette non référencée
+  TP2_MinioBase_Donee.vcxproj -> C:\Users\2417110\source\repos\TP2_MinioBase_Donee\x64\Debug\TP2_MinioBase_Donee.exe
